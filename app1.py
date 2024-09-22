@@ -48,7 +48,7 @@ st.title("E-Commerce Product Recommendation System")
 
 # Company details section on the sidebar
 with st.sidebar:
-    st.image("static/img/Beauty(4).png", width=220) 
+    st.image("static/img/Beauty (4).png", width=150) 
     st.markdown("<h2 style='text-align: center;'>About Us</h2>", unsafe_allow_html=True)
     st.markdown("<p style='text-align: center; font-style: italic;'>At Beauty Products, we believe that beauty is more than skin deep. Our mission is to empower you to feel confident and radiant every day. We are passionate about creating high-quality beauty products that enhance your natural beauty and bring out your best self.</p>", unsafe_allow_html=True)
     st.markdown("<hr>", unsafe_allow_html=True)
