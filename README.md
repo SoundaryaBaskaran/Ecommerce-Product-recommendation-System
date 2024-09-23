@@ -1,8 +1,7 @@
 # E-commerce Product Recommendation System (Streamlit App)
 
-[![Video Thumbnail]("D:\Images for portfolio\images\Beauty.webp")](https://vimeo.com/1012129591?share=copy#t=0)
 
-<iframe src="https://player.vimeo.com/video/1012129591" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/1012129591" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 [Watch my video](https://vimeo.com/1012129591?share=copy#t=0)
