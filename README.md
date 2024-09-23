@@ -1,4 +1,7 @@
 # E-commerce Product Recommendation System (Streamlit App)
+
+[Watch my video](https://vimeo.com/1012129591?share=copy#t=0)
+
 ### Description
 "I developed and deployed an interactive web application called 'Beauty Products' for personalized product recommendations in the e-commerce space. This system utilizes multiple recommendation techniques to suggest items tailored to individual user preferences, enhancing the customer shopping experience
 
