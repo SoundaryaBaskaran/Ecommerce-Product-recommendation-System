@@ -1,5 +1,7 @@
 # E-commerce Product Recommendation System (Streamlit App)
+## Demo Video
 
+Watch the demo of the E-commerce Product Recommendation System:
 
 <iframe src="https://player.vimeo.com/video/1012129591" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
