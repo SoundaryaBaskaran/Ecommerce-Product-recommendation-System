@@ -2,17 +2,9 @@
 ## Demo Video
 
 
-<img src="https://github.com/SoundaryaBaskaran/Ecommerce-Product-recommendation-System/blob/main/static/img/Beauty.webp" alt="Demo Thumbnail" width="220"/>
+<img src="https://github.com/SoundaryaBaskaran/Ecommerce-Product-recommendation-System/blob/main/static/img/Beauty.webp" alt="Demo Thumbnail" width="550"/>
 
-[Watch the video on Vimeo](https://vimeo.com/1012129591)
-
-In this project, we developed a system that recommends products to users based on their preferences and shopping history.
-
-
-Watch the demo of the E-commerce Product Recommendation System:
-
-<iframe src="https://player.vimeo.com/video/1012129591" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+[Watch my video on Vimeo](https://vimeo.com/1012129591)
 
 [Watch my video](https://vimeo.com/1012129591?share=copy#t=0)
 
