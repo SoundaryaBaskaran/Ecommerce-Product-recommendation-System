@@ -2,7 +2,7 @@
 ## Demo Video
 
 
-![Demo Thumbnail]"D:\Images for portfolio\images\Beauty.webp")
+![Demo Thumbnail](https://github.com/SoundaryaBaskaran/Ecommerce-Product-recommendation-System/blob/main/static/img/Beauty.webp)
 
 [Watch the video on Vimeo](https://vimeo.com/1012129591)
 
