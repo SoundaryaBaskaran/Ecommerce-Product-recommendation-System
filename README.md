@@ -1,6 +1,14 @@
 # E-commerce Product Recommendation System (Streamlit App)
 ## Demo Video
 
+
+![Demo Thumbnail](https://via.placeholder.com/320x180.png?text=E-commerce+Product+Recommendation+Demo)
+
+[Watch the video on Vimeo](https://vimeo.com/1012129591)
+
+In this project, we developed a system that recommends products to users based on their preferences and shopping history.
+
+
 Watch the demo of the E-commerce Product Recommendation System:
 
 <iframe src="https://player.vimeo.com/video/1012129591" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
