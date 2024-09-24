@@ -4,7 +4,7 @@
 
 <img src="https://github.com/SoundaryaBaskaran/Ecommerce-Product-recommendation-System/blob/main/static/img/Beauty.webp" alt="Demo Thumbnail" width="550"/>
 
-[Watch my video on Vimeo](https://vimeo.com/1012129591)
+<a href="https://vimeo.com/1012129591" target="_blank">Watch my video on Vimeo</a>
 
 [Watch my video](https://vimeo.com/1012129591?share=copy#t=0)
 
