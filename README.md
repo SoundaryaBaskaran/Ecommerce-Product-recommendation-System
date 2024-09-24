@@ -2,7 +2,7 @@
 ## Demo Video
 
 
-![Demo Thumbnail](https://via.placeholder.com/320x180.png?text=E-commerce+Product+Recommendation+Demo)
+![Demo Thumbnail]"D:\Images for portfolio\images\Beauty.webp")
 
 [Watch the video on Vimeo](https://vimeo.com/1012129591)
 
